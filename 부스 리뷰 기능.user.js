@@ -3,9 +3,12 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://booth.pm/*
 // @grant       GM_xmlhttpRequest
-// @version     1.0
+// @version     1.1
 // @author      Gureumi
 // @description 2023. 12. 5. 오후 7:20:56
+// @license MIT
+// @downloadURL https://update.greasyfork.org/scripts/482060/%EB%B6%80%EC%8A%A4%20%EB%A6%AC%EB%B7%B0%20%EA%B8%B0%EB%8A%A5.user.js
+// @updateURL https://update.greasyfork.org/scripts/482060/%EB%B6%80%EC%8A%A4%20%EB%A6%AC%EB%B7%B0%20%EA%B8%B0%EB%8A%A5.meta.js
 // ==/UserScript==
 
 var regex = /\d+$/;
